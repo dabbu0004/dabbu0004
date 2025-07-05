@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **hs8638248@gmail.com** For Contect. 😊😊
 - 🔭 **I’m currently working on:** GITHUB Console Commands
 - 🌱 **I’m currently learning:** Web development and DSA
 - 🤔 **I’m looking for :** Internship or Job 
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** hs8638248@gmail.com
 - 😄 **Pronouns:** Himanshu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
