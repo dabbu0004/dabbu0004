@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Himanshu
-**A passionate Full Stack Developer || Software Engineer || Problem Solver
+**A passionate Full AI Stack Developer || Software Engineer || Problem Solver
 
 Email Me 👉 ✉️ **hs8638248@gmail.com** For Contect. 😊😊
 
-- 🔭 **I’m currently working on:** GITHUB Console Commands
+- 🔭 **I’m currently working on:** AI Projects
 - 🌱 **I’m currently learning:** Web development and DSA
 - 🤔 **I’m looking for :** Internship or Job 
 - 💬 **Ask me about:** Tech Support
