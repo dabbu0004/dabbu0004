@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Himanshu
-**A passionate Full AI Stack Developer || Software Engineer || Problem Solver
+**A passionate Full Stack AI Stack Developer || Software Engineer || Problem Solver
 
 Email Me 👉 ✉️ **hs8638248@gmail.com** For Contect. 😊😊
 
